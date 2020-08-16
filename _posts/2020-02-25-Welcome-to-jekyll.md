@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Claudio Carrasco
-title: "Chupa el perro"
+title: "Asi lo hacemos en la madre rusia kbron >:v"
 ---
 Los objetivos específicos de la titulación son los siguientes:\\
 Diseñar aplicaciones informáticas que se ajusten a las necesidades de las organizaciones.\\

@@ -1,10 +1,6 @@
 ---
-title: About
+title: Acerca del hentai
 layout: page
 ---
 
-Hey! This is the "Leaf" Jekyll theme created by <a rel="me" target="_blank" href="https://twitter.com/_SupunKavinda">Supun Kavinda</a>.
-
-You can find the source code of this theme at <a href="https://github.com/SupunKavinda/jekyll-theme-leaf">Github</a>
-
-(Change this by editing `about.md` file)
+Mi nombre es Claudio Carrasco nacido el 14 de febrero del 99, actualmente estudiando ingeniería en software en la universidad de guayaquil, soy una persona que le gusta aprender para tener conocimientos extras. Me gusta jugar futbol, muchos videojuegos, leer mangas y ver anime, y ver video de Mia Khalifa.

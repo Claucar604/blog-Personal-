@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Claudio Carrasco
-title: "Asi lo hacemos en la madre rusia kbron >:v"
+title: "Cuales son los objetivos de la ingeniería en software"
 ---
 Los objetivos específicos de la titulación son los siguientes:\\
 Diseñar aplicaciones informáticas que se ajusten a las necesidades de las organizaciones.\\

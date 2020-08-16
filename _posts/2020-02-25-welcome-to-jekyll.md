@@ -2,21 +2,22 @@
 layout: post
 author: Supun Kavinda
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+Los objetivos específicos de la titulación son los siguientes:
+Diseñar aplicaciones informáticas que se ajusten a las necesidades de las organizaciones.
+Dirigir y coordinar el desarrollo de aplicaciones complejas.
+Intervenir en todas las fases del ciclo de vida de un producto.
+Estimar los costes de un proyecto y determinar los tiempos de desarrollo.
+Hacer el seguimiento de costes y plazos.
+Dirigir equipos de trabajo de desarrollo software.
+Organizar la realización de pruebas que verifiquen el correcto funcionamiento de los programas y que se ajustan a los requisitos de análisis y diseño.
+Diseñar, construir y administrar bases de datos.
+Dirigir y asesorar a los programadores durante el desarrollo de aplicaciones.
+Introducir procedimientos de calidad en los sistemas, evaluando métricas e indicadores y controlando la calidad del software producido.
+Organizar y supervisar el trabajo de su equipo de los técnicos de mantenimiento y los ingenieros de sistemas y redes.
+Cabe destacar como uno de los objetivos de la Titulación todos los aspectos de cooperación social tendentes a la promoción de la cultura, de la paz, la igualdad de derechos con independencia del género, la raza o las particulares condiciones personales o sociales de cualquiera de los miembros de la comunidad universitaria. Desde este punto de vista se hace especial énfasis en la igualdad de oportunidades y no discriminación, favoreciendo de modo muy especial la integración en la comunidad universitaria de personas con necesidades especiales.
+Referencia 
+http://www.etsisi.upm.es/estudios/grados/software/objetivos#:~:text=Los%20objetivos%20espec%C3%ADficos%20de%20la,de%20vida%20de%20un%20producto.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
-
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
 
 
 [jekyll-docs]: http://jekyllrb.com/docs/home

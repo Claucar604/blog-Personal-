@@ -1,6 +1,7 @@
 ---
 layout: post
 author: Claudio Carrasco
+title: "Chupa el perro"
 ---
 Los objetivos específicos de la titulación son los siguientes:\\
 Diseñar aplicaciones informáticas que se ajusten a las necesidades de las organizaciones.\\

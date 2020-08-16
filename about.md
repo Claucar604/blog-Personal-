@@ -7,4 +7,5 @@ Mi nombre es Claudio Carrasco nacido el 14 de febrero del 99, actualmente estudi
 
 
 [code lang=text]
-![un gatito]({{ site.baseurl }}/images/kitten.jpg)
+![un gatito]({{ site.baseurl }}/images/ KF1SglaA_Q8nsvTj.jpg)
+

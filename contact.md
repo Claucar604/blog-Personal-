@@ -1,10 +1,6 @@
 ---
-title: Contact
+title: Educación
 layout: page
 ---
 
-You can always contact the creator of this theme via [Twitter](https://twitter.com/_SupunKavinda).
-
-If you need help with Jekyll, ask questions on [Jekyll Talk](https://talk.jekyllrb.com/).
-
-(Change this by editing `contact.md` file)
+Estudié desde mi infancia en la Unidad Educativa Martin Luther King y me gradué en ella como unos de los 15 mejores estudiantes, en ella fui elegido como escolta de la bandera de guayaquil en mi tercer año de bachillerato. Aunque no sea una escuela/colegio de renombre o y posea muchas fallas fue una buena experiencia el poder salir de dicho establecimiento como una buena persona gracias a los profesores y personas involucradas con dicho plantel educativo.

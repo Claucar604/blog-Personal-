@@ -7,4 +7,4 @@ Mi nombre es Claudio Carrasco nacido el 14 de febrero del 99, actualmente estudi
 
 
 
-import:"![19467701_1210433079062475_8071240954454698681_o.jpg](https://github.com/Claucar604/blog-Personal-/blob/master/19467701_1210433079062475_8071240954454698681_o.jpg)"
+![19467701_1210433079062475_8071240954454698681_o.jpg]
